@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">trabalho 1 mobile</string>
+    <string name="toggle_turn_on">Turn On</string>
+    <string name="toggle_turn_off">Turn Off</string>
+    <string name="btn_display">Display</string>
+    <string name="example_edittext">Example showing EditText</string>
+    <string name="show_the_text">Show the Text</string>
+    <string name="enter_text">text changes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="red_string">Red</string>
+    <string name="green_string">Green</string>
+    <string name="yellow_string">Yellow</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello">Hello World, ListViewActivity1!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_new_activity">Open new activity</string>
+    <string name="tab3_textview">Tab 3</string>
+    <string name="tab2_textview">Tab 2</string>
+    <string-array name="sports_array">
+        <item>Shuttle Badminton</item>
+        <item>Tennis</item>
+        <item>FootBall</item>
+        <item>Basket Ball</item>
+        <item>Table Tennis</item>
+        <item>Chess</item>
+        <item>Hockey</item>
+    </string-array>
+</resources>
